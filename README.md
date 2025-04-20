@@ -1,16 +1,14 @@
-## Hi there 👋
+👋 Hola, soy Julián Nicolás Ibagué Salamanca
 
-<!--
-**242017/242017** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudiante de Desarrollo Web en TripleTen  
+💼 Asesor Integral en Falabella    
+🌍 Apasionado por la educación, la tecnología y el aprendizaje continuo
 
-Here are some ideas to get you started:
+ 🚀 Proyectos destacados
+- [Alrededor de los EE.UU.](https://github.com/242017/around-the-us)  
+  Aplicación web interactiva para añadir, eliminar y dar "me gusta" a fotos.  
+  *Tecnologías: HTML, CSS (BEM), JavaScript.*
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ 📫 Conéctate conmigo
+- [LinkedIn](http://linkedin.com/in/julian-nicolas-ibague-salamanca)
+- [Email](mailto:nicolasibague2420@hotmail.com)
