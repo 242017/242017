@@ -5,7 +5,7 @@
 🌍 Apasionado por la educación, la tecnología y el aprendizaje continuo
 
  🚀 Proyectos destacados
-- [Alrededor de los EE.UU.](https://github.com/242017/around-the-us)  
+- [Alrededor de los EE.UU.](https://242017.github.io/web_project_around/)  
   Aplicación web interactiva para añadir, eliminar y dar "me gusta" a fotos.  
   *Tecnologías: HTML, CSS (BEM), JavaScript.*
 
