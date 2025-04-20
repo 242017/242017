@@ -4,11 +4,17 @@
 💼 Asesor Integral en Falabella    
 🌍 Apasionado por la educación, la tecnología y el aprendizaje continuo
 
- 🚀 Proyectos destacados
-- [Alrededor de los EE.UU.](https://242017.github.io/web_project_around/)  
-  Aplicación web interactiva para añadir, eliminar y dar "me gusta" a fotos.  
-  *Tecnologías: HTML, CSS (BEM), JavaScript.*
-
+🧠 Pensamiento crítico y resolución de problemas  
+ 💬 Comunicación efectiva en español e inglés  
+ 🤝 Trabajo en equipo y colaboración  
+ ⌛ Gestión del tiempo y responsabilidad  
+ 🎯 Enfoque en resultados y mejora continua  
+ 🛠️ Adaptabilidad a nuevas herramientas y tecnologías  
+ 📊 Excel avanzado para análisis de datos  
+ 🌍 Mentalidad global y culturalmente empático  
+ 👨‍🏫 Capacidad para enseñar y explicar conceptos con claridad  
+ 💻 Pasión por el desarrollo web y la educación online
+ 
  📫 Conéctate conmigo
 - [LinkedIn](http://linkedin.com/in/julian-nicolas-ibague-salamanca)
 - [Email](mailto:nicolasibague2420@hotmail.com)
