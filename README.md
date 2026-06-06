@@ -1,7 +1,6 @@
 👋 Hola, soy Julián Nicolás Ibagué Salamanca
 
-🎓 Estudiante de Desarrollo Web en TripleTen  
-💼 Asesor Integral en Falabella    
+🎓 Estudiante de Desarrollo Web en TripleTen   
 🌍 Apasionado por la educación, la tecnología y el aprendizaje continuo
 
 🧠 Pensamiento crítico y resolución de problemas  
